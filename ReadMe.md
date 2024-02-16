@@ -1,6 +1,6 @@
 ## Isto é um readme, nào troque esta linha.
 
-# Troque esta Linha
+# Linha modificada
 
 ## Seu nome é Rafael?
 
@@ -33,3 +33,4 @@
 
 
 ## HOMOLOG
+# R: Não? 
